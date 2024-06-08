@@ -24,6 +24,7 @@ class Lion extends Animal {
 
 let rabit = new Animal("Rabit");
 rabit.eat();
+rabit.jump();
 let lion = new Lion("Lion");
 lion.eat();
 
